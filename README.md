@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Login Authetication Using React and Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img width="500" alt="Sign Up" src="https://github.com/Adityalad-25/firebase-auth/assets/97255480/e0ff6fd9-124c-4235-b757-025e62530591">
+
+<img width="500" alt="Sign In" src="https://github.com/Adityalad-25/firebase-auth/assets/97255480/0abc6ef0-1126-4c2b-a66a-6eedbc1ea627">
+
+<img width="500" alt="Home:Account:Logout" src="https://github.com/Adityalad-25/firebase-auth/assets/97255480/ca97be36-eccb-4e0e-83a8-a9c2035d15c5">
+
+
+
 
 ## Available Scripts
 
